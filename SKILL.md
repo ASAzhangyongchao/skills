@@ -1,3 +1,7 @@
+---
+name: test
+description: 一个简单的触发式技能示例，支持自定义触发词和回应
+---
 # test
 
 ## Description
