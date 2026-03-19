@@ -1,0 +1,17 @@
+{
+  "name": "触发式技能",
+  "version": "1.0.0",
+  "description": "一个简单的触发式技能示例。",
+  "entry": "main.py",
+  "author": "你的名字",
+  "commands": [
+    {
+      "name": "小灯胜算",
+      "description": "当说出触发词'小灯胜算'时，给予特定回应。"
+    },
+    {
+      "name": "保存",
+      "description": "模拟保存动作，回应用户请求。"
+    }
+  ]
+}
